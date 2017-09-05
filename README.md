@@ -19,7 +19,7 @@ The 1st way it easier than the 2nd way, but the 2nd way is easier if you already
 
 #### Releases Way
 
-1. Goto [this]() website
+1. Goto [this](https://github.com/blockba5her/ScriptHookV_Template/releases) website
 2. Find the latest release (At the top)
 3. Download the source code in ¨zip¨ form.
 4. Extract that to your PC somewhere, and that is the template code
@@ -29,7 +29,7 @@ The 1st way it easier than the 2nd way, but the 2nd way is easier if you already
 
 1. Right click in the dir you want to place the template in
 2. Open GitBash
-3. Clone the following link ``
+3. Clone the following link `https://github.com/blockba5her/ScriptHookV_Template.git`
 * Again, you can now rename everything that you would like, and change directories and such.
 
 ## Starting
