@@ -25,7 +25,7 @@ typedef int Pickup;
 typedef int Object;
 typedef int Weapon;
 typedef int Interior;
-typedef int BlipHandle;
+typedef int Blip;
 typedef int Texture;
 typedef int TextureDict;
 typedef int CoverPoint;

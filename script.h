@@ -6,11 +6,11 @@
 
 #pragma once
 
-#include "inc\natives.h"
-#include "inc\types.h"
-#include "inc\enums.h"
+#include <natives.h>
+#include <types.h>
+#include <enums.h>
 
-#include "inc\main.h"
+#include <main.h>
 #include "keyboard.h"
 
 void ScriptMain();

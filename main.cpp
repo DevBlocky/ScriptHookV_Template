@@ -4,7 +4,7 @@
 			(C) Alexander Blade 2015
 */
 
-#include "inc\main.h"
+#include <main.h>
 #include "script.h"
 #include "keyboard.h"
 

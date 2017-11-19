@@ -8,25 +8,5 @@
   <ItemGroup>
     <ClInclude Include="keyboard.h" />
     <ClInclude Include="script.h" />
-    <ClInclude Include="inc\enums.h">
-      <Filter>inc</Filter>
-    </ClInclude>
-    <ClInclude Include="inc\main.h">
-      <Filter>inc</Filter>
-    </ClInclude>
-    <ClInclude Include="inc\nativeCaller.h">
-      <Filter>inc</Filter>
-    </ClInclude>
-    <ClInclude Include="inc\natives.h">
-      <Filter>inc</Filter>
-    </ClInclude>
-    <ClInclude Include="inc\types.h">
-      <Filter>inc</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <Filter Include="inc">
-      <UniqueIdentifier>{31d56f48-ce5e-4816-a2b2-879db9dcb0f1}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
 </Project>
